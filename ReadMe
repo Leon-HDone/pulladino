@@ -1,2 +1,5 @@
 [![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-TrasCan-Hub-237465)](https://scriptblox.com/script/Universal-Script-TrasCan-Hub-237465)
 
+This script is in Beta and my have bugs
+
+## Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/pulladino/refs/heads/main/m.lua"))()
